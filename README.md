@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RedonKokaj
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, Python and Javascript
 - 📫 How to reach me: redon.kokaj@gmail.com
 
 <!---
