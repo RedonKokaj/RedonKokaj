@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RedonKokaj
 - 👀 I’m interested in software development, AI and data science
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m actively learning Java and Python
 - 📫 How to reach me: redon.kokaj@gmail.com
